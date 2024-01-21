@@ -37,34 +37,26 @@
 **Strona główna**
 ![Strona główna](screenshots/main-page.PNG)
 
-**Rejestracja**
-![Rejestracja](Screenshots/rejestracja.png)
-
 **Logowanie**
-![Logowanie](Screenshots/logowanie.png)
+![Logowanie](screenshots/login-page.PNG)
 
-**Panel Użytkownika**
-![Panel Użytkownika](Screenshots/paneluzytkownika.png)
+**Lista Wycieczek**
+![Lista Wycieczek](screenshots/travel-list.PNG)
 
-**Lista Wypożyczeń**
-![Lista Wypożyczeń](Screenshots/mojewypozyczenia.png)
+**Dane Wycieczki**
+![Dane Wycieczki](screenshots/travel-description.PNG)
 
-**Lista dodanych ogłoszeń**
-![Lista dodanych ogłoszeń](Screenshots/widokmojesamochody.png)
+**Koszyk Produktów**
+![Koszyk Produktów](screenshots/travel-purchase.PNG)
 
-**Wyszukiwanie**
-![Wyszukiwanie](Screenshots/wyszukiwanie.png)
+**Lista Przewodników**
+![Lista Przewodników](screenshots/guide-list.PNG)
 
-**Widok wypożyczenia pojazdu**
-![Widok wypożyczenia pojazdu](Screenshots/widokwypozyczenia.png)
+**Edycja Ogłoszenia Wycieczki**
+![Edycja Ogłoszenia Wycieczki](screenshots/travel-edit.PNG)
 
-**Edycja ogłoszenia**
-![Edycja ogłoszenia](Screenshots/edycjaogloszenia.png)
-![Edycja ogłoszenia2](Screenshots/edycjaogloszenia2.png)
-
-**Dodawanie ogłoszenia**
-![Dodawanie ogłoszenia](Screenshots/dodawaniepojazdu.png)
-![Dodawanie ogłoszenia2](Screenshots/dodawaniepojazdu2.png)
+**Edycja Danych Przewodnika**
+![Edycja Danych Przewodnika](screenshots/guide-edit.PNG)
  
 ## Instalacja
 Aby uruchomić projekt lokalnie:
@@ -75,18 +67,17 @@ Aby uruchomić projekt lokalnie:
  
 ## Jak Korzystać
 - Zarejestruj się i zaloguj do aplikacji, aby korzystać z pełnej funkcjonalności.
-- Dodawaj, edytuj i przeglądaj ogłoszenia samochodów do wynajęcia.
-- Dokonuj rezerwacji wybranych pojazdów.
-- Zarządzaj swoimi rezerwacjami w panelu użytkownika.
+- Dodawaj, edytuj i przeglądaj ogłoszenia wycieczek.
+- Dokonuj zakupu wybranych wycieczek.
  
 ## Status Projektu
 Projekt jest w trakcie rozwoju.
  
 ## Plan Rozwoju
-- Wprowadzenie funkcji usuwania ogłoszeń.
+- Wprowadzenie pełnej funkcjonalnościu zakupu wycieczek.
 - Poprawa i zmiana wyglądu interfejsu użytkownika.
  
-## Twórcy
+## Twórca
 - Projekt stworzony przez [@Roshuu](https://github.com/Roshuu).
  
 ## Kontakt
