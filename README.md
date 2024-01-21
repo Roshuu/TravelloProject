@@ -35,7 +35,7 @@
 ## Zrzuty Ekranu
 
 **Strona główna**
-![Strona główna](![image](https://github.com/Roshuu/TravelloProject/assets/96373395/8234df27-2dd2-435e-b9a4-3c48c3ac5ed5))
+![Strona główna](Screenshots/main-page.png)
 
 **Rejestracja**
 ![Rejestracja](Screenshots/rejestracja.png)
