@@ -35,7 +35,7 @@
 ## Zrzuty Ekranu
 
 **Strona główna**
-![Strona główna](screenshots/main-page.png)
+![Strona główna](screenshots/main-page.PNG)
 
 **Rejestracja**
 ![Rejestracja](Screenshots/rejestracja.png)
