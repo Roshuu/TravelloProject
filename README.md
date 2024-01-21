@@ -22,7 +22,7 @@
 ## Technologie Użyte
 - C#
 - .NET
-- - MySQL
+- MySQL
  
 ## Funkcjonalności
 - Rejestracja, logowanie i wylogowywanie użytkowników.
